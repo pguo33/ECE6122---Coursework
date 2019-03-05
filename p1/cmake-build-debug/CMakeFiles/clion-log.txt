@@ -1,0 +1,4 @@
+"C:\Users\Miss Guo\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/cygwin64/bin/make.exe -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p1/cmake-build-debug

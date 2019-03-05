@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/array.cc
+iostream
+-
+array.h
+-
+
+../src/array.h
+iostream
+-
+
+../src/simple_string.h
+iostream
+-
+cstdint
+-
+
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p1/main.cc
+iostream
+-
+vector
+-
+simple_string.h
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p1/simple_string.h
+array.h
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p1/array.h
+array.cc
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p1/array.cc
+
