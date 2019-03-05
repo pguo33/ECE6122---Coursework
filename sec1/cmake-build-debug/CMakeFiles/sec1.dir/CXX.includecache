@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/vector3.h
+iostream
+-
+vector
+-
+
+C:/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/sec1/main.cpp
+iostream
+-
+vector3.h
+C:/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/sec1/vector3.h
+

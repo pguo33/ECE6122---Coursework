@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2018.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Miss Guo\Desktop\ECE6122-Adv Prog Techniques\Homework\sec1"
+-- Configuring done
+CMake Error at CMakeLists.txt:15 (add_executable):
+  Cannot find source file:
+
+    main.cc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  No SOURCES given to target: se1
+
+
+-- Build files have been written to: C:/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/sec1/cmake-build-debug
