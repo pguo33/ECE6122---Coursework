@@ -1,0 +1,7 @@
+
+a.out:6052 terminated with signal 11 at PC=328d636eb2 SP=7fffffffcfb0.  Backtrace:
+/lib64/libc.so.6[0x328d636eb2]
+/lib64/libc.so.6(atoi+0x10)[0x328d633c60]
+./a.out[0x408ce9]
+/lib64/libc.so.6(__libc_start_main+0xfd)[0x328d61ed5d]
+./a.out[0x408b69]
