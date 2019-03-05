@@ -1,0 +1,9 @@
+"C:\Users\Miss Guo\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/cygwin64/bin/make.exe -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2"
+CMake Error at /cygdrive/c/Users/Miss Guo/.CLion2018.2/system/cygwin_cmake/share/cmake-3.12.1/Modules/FindCUDA.cmake:692 (message):
+  Specify CUDA_TOOLKIT_ROOT_DIR
+Call Stack (most recent call first):
+  CMakeLists.txt:3 (FIND_PACKAGE)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/cmake-build-debug/CMakeFiles/CMakeOutput.log".

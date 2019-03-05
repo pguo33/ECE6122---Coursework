@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/main.cpp
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+math.h
+-
+cuda.h
+-
+cuda_runtime.h
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/cuda_runtime.h
+device_launch_parameters.h
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/device_launch_parameters.h
+utils.h
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/utils.h
+dev_matrix.h
+/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/dev_matrix.h
+

@@ -1,0 +1,13 @@
+"C:\Users\Miss Guo\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/cygwin64/bin/make.exe -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/cly"
+-- The CUDA compiler identification is unknown
+CMake Error at CMakeLists.txt:7 (enable_language):
+  No CMAKE_CUDA_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CUDACXX" or the CMake cache entry CMAKE_CUDA_COMPILER to the full
+  path to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/cly/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/c/Users/Miss Guo/Desktop/ECE6122-Adv Prog Techniques/Homework/p2/cly/cmake-build-debug/CMakeFiles/CMakeError.log".
